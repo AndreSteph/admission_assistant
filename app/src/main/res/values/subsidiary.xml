@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="subsidiary">
+        <item>Sub math</item>
+        <item>General Paper</item>
+        <item>Sub ICT</item>
+    </string-array>
+</resources>

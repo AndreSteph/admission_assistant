@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="subjects">
+        <item>Biology</item>
+        <item>Chemistry</item>
+        <item>Physics</item>
+        <item>Math</item>
+        <item>Economics</item>
+        <item>History</item>
+        <item>Entreprenuership</item>
+        <item>Technical Drawing</item>
+        <item>Geography</item>
+        <item>Language</item>
+        <item>Fine Art</item>
+        <item>Foods and Nutrition</item>
+    </string-array>
+
+</resources>
